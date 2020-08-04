@@ -1,0 +1,52 @@
+/home/acc12244ze/hasktorch-tools/src/Torch/Layer/LSTM.hs:
+  hash: 45d074e5ae120615e19771fa90726d025b3b68a633ad6a857ae34f7ad232a109
+  size: 1786
+  modtime: 1596540166
+/home/acc12244ze/hasktorch-tools/src/Torch/Layer/MLP.hs:
+  hash: f51687cb7d660eb4bea0a866e1f0891f1b85ac0ff95786f057c6c3d3a90e4705
+  size: 1575
+  modtime: 1595304073
+/home/acc12244ze/hasktorch-tools/src/Torch/Util/Classification.hs:
+  hash: 7cd283da881f394443f6e64a3c8d0bf387a845ac4c734301d37fc8fe7ae156e5
+  size: 7702
+  modtime: 1595304073
+/home/acc12244ze/hasktorch-tools/package.yaml:
+  hash: 72f6c3734721e5858fcd90cca94ae266d89dc0a85a45ba948a41bd7e2f1aa92f
+  size: 2834
+  modtime: 1595322918
+/home/acc12244ze/hasktorch-tools/hasktorch-tools.cabal:
+  hash: 89fe53593ea84649ffd7b968635714d23c2099ad8e86a53f58649ef385247d4d
+  size: 4726
+  modtime: 1595322847
+/home/acc12244ze/hasktorch-tools/src/Torch/Layer/Linear.hs:
+  hash: d0879408a63355977a3af57dbdc3de7ca04cdc6fdeff2dd201d822a0252ab222
+  size: 1536
+  modtime: 1595304073
+/home/acc12244ze/hasktorch-tools/src/Torch/Util/Dict.hs:
+  hash: fd65109c5de33b6b8e9fd84f49a31fa5e67857b980a857d384c0cc131ede8e0f
+  size: 5320
+  modtime: 1595304073
+/home/acc12244ze/hasktorch-tools/src/Torch/Control.hs:
+  hash: 5652a026bdfaa66fed25be53182c69f311ef491ebe992e93c48fd9c6bcf8fc49
+  size: 1086
+  modtime: 1595304073
+/home/acc12244ze/hasktorch-tools/src/Torch/Util/Chart.hs:
+  hash: 628e07f048d495e20aadc99c300587c80e5bdbcd87882975ee33396478abd5a2
+  size: 1256
+  modtime: 1595304073
+/home/acc12244ze/hasktorch-tools/src/Torch/Util/TSV.hs:
+  hash: 6df3f8a01c76660b7d31695612c1187492348995443c8bcf0648368e0b410c2c
+  size: 1796
+  modtime: 1595304073
+/home/acc12244ze/hasktorch-tools/src/Torch/Train.hs:
+  hash: 4a2372f953eff475aa075b8e001a17d4eb39dc78dae9205b6bee3001cbe539b1
+  size: 1771
+  modtime: 1596540273
+/home/acc12244ze/hasktorch-tools/README.md:
+  hash: c2eac8362032d52f98fc1254e1e5d007829b1f25621f4e5a706e98e1eab84a1e
+  size: 18
+  modtime: 1595304073
+/home/acc12244ze/hasktorch-tools/ChangeLog.md:
+  hash: b109646e889ef266e4753fc193fb8c6001a367104be9b583e10d2a4607391991
+  size: 55
+  modtime: 1595304073
