@@ -16,7 +16,7 @@ description:         https://github.com/githubuser/hasktorch-tools#readme
 dependencies:
 - base >= 4.7 && < 5
 - hasktorch >= 0.2
-- libtorch-ffi == 1.4.*
+- libtorch-ffi >= 1.4
 - codegen >= 0.1
 - async
 - finite-typelits
@@ -61,13 +61,13 @@ library:
   - Torch.Util.Chart
   
 executables:
-  test:
-    main:                Main.hs
-    source-dirs:         app/test
-    ghc-options: [-threaded, -rtsopts, -with-rtsopts=-N]
-    dependencies:
-      - hasktorch-tools
-#      - finite-typelits >= 0.1
+#  test:
+#    main:                Main.hs
+#    source-dirs:         app/test
+#    ghc-options: [-threaded, -rtsopts, -with-rtsopts=-N]
+#    dependencies:
+#      - hasktorch-tools
+#- finite-typelits >= 0.1
   regression:
     main:                Main.hs
     source-dirs:         app/regression
